@@ -1,4 +1,3 @@
 2 - atlterando o arquivo txt
-3 - segunda alteração no arquivo
 4 - terceira alteração no arquivo
 
