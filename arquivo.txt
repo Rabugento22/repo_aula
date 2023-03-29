@@ -2,3 +2,4 @@
 4 - terceira alteração no arquivo
 
 5 - Quarta alteração no arquivo.txt
+6 - Nova linha local novo usuário 
