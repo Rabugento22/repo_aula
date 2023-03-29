@@ -1,10 +1,6 @@
 Adicionando arquivo main.txt
 Nova linha repo remoto
- Nova linha no arquivo main.txt
-
-
-
-
-
+Nova linha no arquivo main.txt
 Outra linha
 Nova linha local fetch
+Nova linha remota fetch
