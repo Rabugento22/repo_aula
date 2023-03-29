@@ -7,3 +7,4 @@ Nova linha repo remoto
 
 
 Outra linha
+Nova linha local fetch
